@@ -173,7 +173,7 @@ For commercial licensing: revsharp.admin@gmail.com
 ## Contact
 
 **Bo Alambis**
-[LinkedIn](https://www.linkedin.com/in/bo-alambis/) · [email](revsharp.admin@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bo-alambis/) · [Email](revsharp.admin@gmail.com)
 
 ---
 
