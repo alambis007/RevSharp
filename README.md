@@ -179,4 +179,12 @@ For commercial licensing: revsharp.admin@gmail.com
 
 ---
 
+## Support
+
+If RevSharp saves you time, consider buying me a coffee!
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=SKVV8TVBY883U)
+
+---
+
 *Built with Roslyn · AvalonEdit · Autodesk Revit API · .NET 8*
