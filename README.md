@@ -165,7 +165,7 @@ RevSharp is proprietary software. The source code is not publicly available.
 
 RevSharp is free to use for personal and internal business use.  
 
-See [LICENSE](LICENSE) for full terms.  
+See [LICENSE](LICENSE.md) for full terms.  
 For commercial licensing: revsharp.admin@gmail.com
 
 ---
