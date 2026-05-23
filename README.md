@@ -29,8 +29,10 @@ RevSharp is a script runner and ribbon button manager for Autodesk Revit, built 
 ## Demo
 
 > *Query a pipe network, bulk renumber sheets, and color code pipe systems by type — all in under 60 seconds.*
+>
+> External YT link:
 
-*(Video coming soon)*
+[![RevSharp Demo](https://img.youtube.com/vi/GmCrKCdWE4w/maxresdefault.jpg)](https://youtu.be/GmCrKCdWE4w)
 
 ---
 
